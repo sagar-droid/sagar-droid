@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋. I am Saral Karki, MERN stack developer who loves working with software that matters.
 
-<!--
-**sagar-droid/sagar-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Typescript 
+- 👯 I’m looking to collaborate on Open-source Projects.
+- 💬 Talk to me about ReactJS and NodeJS 
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Saral33&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Saral33&langs_count=5&theme=tokyonight)]()
+
+![](https://komarev.com/ghpvc/?username=Saral33&color=green)
