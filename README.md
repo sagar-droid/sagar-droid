@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Typescript 
+- 🌱 I’m currently learning VueJs 
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Talk to me about ReactJS
 
